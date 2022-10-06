@@ -8,7 +8,7 @@ export default {
   components: {},
   data() {
     return {
-      sampleData: ``,
+      title: 'World',
     }
   },
   setup() {},
